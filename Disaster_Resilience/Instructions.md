@@ -1,13 +1,15 @@
 <p align="center">
-<img src="Images/GNDEC_Logo.png" width="120">
+<img src="Images/GNDEC_IIC_Logo.png" width="120">
 </p>
 
 <h1 align="center">ENGINEERING FOR DISASTER RESILIENCE — EDR 2026</h1>
 
 <p align="center">
 <b>Digital Infographic & Innovation Challenge</b><br>
-<i>From Disaster Awareness to Engineering Solutions</i><br>
-Guru Nanak Dev Engineering College, Ludhiana
+<i>From Disaster Awareness to Engineering Solutions</i><br><br>
+<b>Department of Civil Engineering</b><br>
+<b>in association with Institution's Innovation Council</b><br>
+<b>Guru Nanak Dev Engineering College, Ludhiana</b><br>
 </p>
 
 <p align="center">
@@ -252,6 +254,7 @@ Understand the Risk. Engineer the Solution. Build Resilience.
 
 <p align="center">
 <b>Department of Civil Engineering</b><br>
+<b>in association with Institution's Innovation Council</b><br>
 <b>Guru Nanak Dev Engineering College, Ludhiana</b>
 </p>
 
