@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Event-EDR%202026-003366?style=flat-square">
 <img src="https://img.shields.io/badge/Category-Student%20%7C%20Faculty-444444?style=flat-square">
 <img src="https://img.shields.io/badge/Mode-Online%20%2B%20Offline-blue?style=flat-square">
-<img src="https://img.shields.io/badge/AI-Fully%20Permitted-7A0019?style=flat-square">
+<img src="https://img.shields.io/badge/AI-Permitted-7A0019?style=flat-square">
 </p>
 
 <p align="center">
