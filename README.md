@@ -1,8 +1,9 @@
 # Event
 
 ### [Expert Lecture on Sustainable Construction Achieved by Enhancing Corrosion-Free Service Life](https://gndec-ced.github.io/Event/Expert_Talk/05.11.2026.html)
-> Thursday, 05 November 2026 | Time: 11:30 AM onwards
+> Thursday, 06 November 2026 | Time: 11:30 AM onwards
 > _by  Dr. Shweta Goyal, Professor & Head, Department of Civil Engineering, TIET, Patiala_
+> [**Activity Report**](Expert_Talk/Activty_Report/06.11.2026.html)
 
 ### [Expert Lecture on Principles of Self Compacting Concrete](https://gndec-ced.github.io/Event/Expert_Talk/22.10.2026.html)
 > Thursday, 22 October 2026 | Time: 11:30 AM onwards
